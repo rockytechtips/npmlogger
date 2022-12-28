@@ -1,4 +1,4 @@
-module.exports = function logger(message) {
-    console.log(message);
+module.exports = function logger(msg) {
+    console.log(msg);
 }
 
